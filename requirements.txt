@@ -1,0 +1,15 @@
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.18.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pytesseract>=0.3.10
+pdfminer.six>=20231228
+
+# Data Processing
+simplejson>=3.19.0
+
+# Browser Driver
+geckodriver-autoinstaller>=0.1.0
